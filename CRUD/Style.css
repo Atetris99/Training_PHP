@@ -1,0 +1,16 @@
+table{
+			border: 1px solid silver;
+			width: 80%;
+		}
+		th{
+			border:  1px solid silver;
+
+		}
+		td,th{
+			
+			box-shadow: 2px 2px 2px silver;
+		}
+
+td{
+	text-align: center;
+}
