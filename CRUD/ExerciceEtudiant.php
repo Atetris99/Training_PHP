@@ -20,6 +20,8 @@
 				<option value="">Ingenieur en bâtiment</option>
 			</select>
 		</p>
+		<hr>	
+		<div> <input type="submit" name="ok" value="Valider"> <input type="reset" name="annulation" value="Annuler"></div>
 	</form>
 </body>
 </html>
